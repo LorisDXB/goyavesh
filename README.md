@@ -1,10 +1,14 @@
-<h2>GOYAVESH<h2>
+<h2>GOYAVESH</h2>
 
-<h3>Features<h3>
+terminal shell / command interpreter.
 
-Line editing<br>
-Job Control<br>
-Aliases<br>
-Variables<br>
-Most keybinds<br>
-Everything a shell can do<br>
+<h3>Features</h3>
+
+<ul>
+    <li>Line editing</li>
+    <li>Job control</li>
+    <li>Aliases</li>
+    <li>Variables</li>
+    <li>Most keybinds</li>
+    <li>(almost) Everything a shell can do !</li>
+</ul>
